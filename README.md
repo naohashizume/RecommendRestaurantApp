@@ -15,15 +15,8 @@ Bear Foodie: https://naohashizume.herokuapp.com
 
 Latest Node JS https://nodejs.org/en/ installed on your machine.
 
-## Usage
+## Member 
 
-## Install
+Team Bear - ACIT 2520 Developing Web Application Course
 
-
-
-## Contribution
-
-## Licence
-
-## Author
-
+* Matt Harrison
